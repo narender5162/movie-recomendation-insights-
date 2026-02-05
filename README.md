@@ -17,5 +17,5 @@ This work is part of my MSc Data Science final project at the University of Hert
 ## Installation
 1. *Clone the repository:*
    ```bash
-  
+  https://github.com/narender5162/movie-recomendation-insights-.git
    cd DS-Project
